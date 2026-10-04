@@ -1,0 +1,212 @@
+---
+title: "MSDM CEP Chapter 2 Development Progress Reports 1–5"
+subtitle: "Client: Restaurant at Kellogg Ranch"
+author: "Group 9: Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann Lewis-Waddell, Georgia Monjarrez"
+date-modified: today
+format: 
+  html:
+    toc: true
+    toc-depth: 4
+    toc-expand: 1
+    toc-location: right
+    number-sections: true
+    number-depth: 3
+    css: template-styles.css
+    embed-resources: true
+    smooth-scroll: true
+    #fontsize: 18px
+    code-tools: true
+    code-overflow: wrap
+bibliography: references.bib
+csl: american-marketing-association.csl
+---
+
+# Progress Report 1
+
+## Evidence Search and Approach Challenge
+
+- [Google Drive Containing Individual Reports](https://drive.google.com/drive/folders/1du_W7r7T4k9v3Y39YWYY-aHQAu7HKRU8?usp=sharing)
+
+# Progress Report 2
+
+## Build the Research Framework for Each AO
+
+### AO1
+
+Required Work for Each AO
+
+1.  Combine and screen the sources gathered in Progress Report 1. Remove weak or redundant sources and add stronger sources where needed.
+
+2.  Organize evidence by ideas, constructs, theories/models, or analytical approaches rather than by paper.
+
+3.  Compare at least two plausible approaches. Explain their assumptions, strengths, weaknesses, data requirements, and fit with the AO.
+
+4.  Select the most defensible framework or combination of frameworks at this stage and explain why it is preferred over alternatives.
+
+5.  Identify what the evidence already answers, what remains uncertain, and whether the AO or proposed approach may need revision.
+
+| Approach/Model | What It Explains | Evidence for/Against | Data/Assumptions | Fit with AO |
+|---------------|---------------|---------------|---------------|---------------|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+: AO Model Comparison Table
+
+## Investigation of Currently Available Research Framework/Model {#sec-investigation-of-currently-available-research-frameworkmodel}
+
+### AO1. Title of AO1 Right Here (Name of Author Here)
+
+*See the callout-note section above for instructions on this section. For each AO, provide the entire AO exactly as you specified in Chapter 1 so that readers do not have to refer back to the previous chapter.*
+
+#### Existence of Well-established Models (2-3 pages per AO)
+
+#### Adequateness of Gathered Information (a paragraph per AO)
+
+#### Need for Additional Analysis (a paragraph per AO)
+
+#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+
+### AO2. Title of AO2 Right Here (Name of Author Here)
+
+#### Existence of Well-established Models (2-3 pages per AO)
+
+#### Adequateness of Gathered Information (a paragraph per AO)
+
+#### Need for Additional Analysis (a paragraph per AO)
+
+#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+
+### AO3. Title of AO3 Right Here (Name of Author Here)
+
+#### Existence of Well-established Models (2-3 pages per AO)
+
+#### Adequateness of Gathered Information (a paragraph per AO)
+
+#### Need for Additional Analysis (a paragraph per AO)
+
+#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+
+### AO4. Title of AO4 Right Here (Name of Author Here)
+
+#### Existence of Well-established Models (2-3 pages per AO)
+
+#### Adequateness of Gathered Information (a paragraph per AO)
+
+#### Need for Additional Analysis (a paragraph per AO)
+
+#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+
+### AO5. Title of AO5 Right Here (Name of Author Here)
+
+#### Existence of Well-established Models (2-3 pages per AO)
+
+#### Adequateness of Gathered Information (a paragraph per AO)
+
+#### Need for Additional Analysis (a paragraph per AO)
+
+#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+
+## 2. Guidelines for Basic/Applied Academic Research Project
+
+If your project doesn't have a client and is intended to benefit the public or industry directly, you may find the contents for Chapter 2 described above unfit to your project. In that case, the contents provided next may be better for you. Consult with your professors. \:::
+
+# CHAPTER 2: For Basic/Applied Academic Research Project {#sec-ch2-for-basic-applied-academic-research-project .unnumbered .unlisted}
+
+::: page-note
+*(3 - 4 pages per AO). Use the same chapter title as the client consulting project.*
+:::
+
+::: callout-note
+## Basic/Applied Academic Research Project
+
+If you are completing a Basic/Applied Academic Research Project type, you do not have a client company to analyze for company-specific analysis. Therefore, you cannot fill out the client-specific sections. This is why you should follow the structure of the front end of an **academic research paper**.
+
+- For the **Basic/Applied Academic Research Project type**, Chapter 2 should follow the structure of the front end of an academic research paper, which includes an overall introduction, a literature review, theoretical development, and hypothesis development for each AO. The purpose of this chapter is to provide a comprehensive understanding of the research topic and to establish a strong foundation for the analytics objectives by grounding them in relevant theories and models.
+
+- You will find the content and structure guidelines below is consistent with the academic papers published in many journals, such as the *Journal of Marketing*, *Journal of Consumer Research*, *Journal of the Academy of Marketing Science*, etc. You can refer to these journals for examples of how to structure and write this chapter.
+:::
+
+## Overall Introduction
+
+::: callout-note
+*Briefly introduce the business or social problem(s) the group is addressing. Summarize the purpose of the study, key theoretical concepts (constructs), analytical focus, and the expected practical and academic contributions.*
+
+- You can write this section in a way that is similar to the introduction section of an academic research paper. Refer to journal articles for examples of how to write this section.
+
+- This section is for the entire AO's, so you should not write this section separately for each AO. Instead, you can write this section once at the beginning of Chapter 2, and then write the literature review, theoretical development, and hypothesis sections separately for each AO.
+:::
+
+## AO1. Title of AO1 Right Here (Name of Author Here)
+
+::: callout-note
+*Each student must write an individual section corresponding to their assigned analytics objective. These sections should be structured as follows:*
+
+**Literature Review**
+
+*Conduct a focused academic literature review related to the construct(s) behind the analytics objective. Include an evaluation of the quality of evidence gathered (e.g., recognize issues in terms of bias, accuracy, new findings, etc. for the information gathered) and the need for additional analysis (to support proposed research)*
+
+- Instead of the title, "Literature review," you can use a more specific title that reflects the content of the section, such as "User generated content" or "Consumer Response to AI-Generated Content."
+
+**Theoretical Development**
+
+*This section is the continuation of the literature review. Develop a logical and theoretical argument based on the literature review that is directly relevant to the analytics objective.*
+
+- Instead of the title, "Theoretical development," you can use a more specific title that reflects the content of the section, such as "User generated content in the Era of AI" or "Current Status of Consumer Acceptance of AI-generated Content."
+
+**Hypothesis**
+
+*Conclude the section above by identifying the clear and testable hypothesis that results from theoretical development. Each hypothesis is typically linked to a construct. In some cases, multiple AO’s may relate to the same construct (from different perspectives), or multiple AO’s may contribute to the evaluation of a single hypothesis.*
+
+- You should not have a separate title for hypothesis. Instead, you can just write the hypothesis at the end of the theoretical development section without a title. For example, you can write, "Based on the above theoretical development, we propose the following hypothesis: \[state the hypothesis here\]." See journal articles for examples of how to write a hypothesis.
+
+- You need to write a hypothesis only if your AO is related to testing a relationship between two or more constructs. If there is not a strong theoretical development that leads to a testable hypothesis, you may not need to write a hypothesis. In that case, you can call it research questions. For example, you can write, "Based on the above theoretical development, we propose the following research question: \[state the research question here\]." See journal articles for examples of how to write a research question.
+:::
+
+### Literature Review
+
+### Theoretical Development
+
+### Hypothesis
+
+<br>
+
+::: callout-note
+*You may apply the structure of AO1 to the rest of the AO sections (AO2, AO3, AO4, and AO5). However, you are not required to follow the same structure for all AO sections. You can use different structures for different AO sections as long as you cover the three main components: literature review, theoretical development, and hypothesis/research question. The key is to ensure that each section is well-organized, logically flows, and effectively communicates the relevant information to support the analytics objective.*
+:::
+
+## AO2. Title of AO2 Here (Name of Author Here)
+
+### Literature Review
+
+### Theoretical Development
+
+### Hypothesis
+
+## AO3. Title of AO3 Here (Name of Author Here)
+
+### Literature Review
+
+### Theoretical Development
+
+### Hypothesis
+
+## AO4. Title of AO4 Here (Name of Author Here)
+
+### Literature Review
+
+### Theoretical Development
+
+### Hypothesis
+
+## AO5. Title of AO5 Here (Name of Author Here)
+
+### Literature Review
+
+### Theoretical Development
+
+### Hypothesis
+
+------------------------------------------------------------------------
+
+{{< pagebreak >}}
