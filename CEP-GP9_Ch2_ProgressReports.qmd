@@ -31,8 +31,6 @@ csl: american-marketing-association.csl
 
 ## Build the Research Framework for Each AO
 
-### AO1
-
 Required Work for Each AO
 
 1.  Combine and screen the sources gathered in Progress Report 1. Remove weak or redundant sources and add stronger sources where needed.
@@ -45,6 +43,8 @@ Required Work for Each AO
 
 5.  Identify what the evidence already answers, what remains uncertain, and whether the AO or proposed approach may need revision.
 
+### AO1
+
 | Approach/Model | What It Explains | Evidence for/Against | Data/Assumptions | Fit with AO |
 |---------------|---------------|---------------|---------------|---------------|
 |  |  |  |  |  |
@@ -53,7 +53,49 @@ Required Work for Each AO
 
 : AO Model Comparison Table
 
-## Investigation of Currently Available Research Framework/Model {#sec-investigation-of-currently-available-research-frameworkmodel}
+### AO2
+
+| Approach/Model | What It Explains | Evidence for/Against | Data/Assumptions | Fit with AO |
+|---------------|---------------|---------------|---------------|---------------|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+: AO Model Comparison Table
+
+### AO3
+
+| Approach/Model | What It Explains | Evidence for/Against | Data/Assumptions | Fit with AO |
+|---------------|---------------|---------------|---------------|---------------|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+: AO Model Comparison Table
+
+### AO4
+
+| Approach/Model | What It Explains | Evidence for/Against | Data/Assumptions | Fit with AO |
+|---------------|---------------|---------------|---------------|---------------|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+: AO Model Comparison Table
+
+### AO5
+
+| Approach/Model | What It Explains | Evidence for/Against | Data/Assumptions | Fit with AO |
+|---------------|---------------|---------------|---------------|---------------|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+: AO Model Comparison Table
+
+##  {#sec-investigation-of-currently-available-research-frameworkmodel}
+
+## Investigation of Currently Available Research Framework/Model
 
 ### AO1. Title of AO1 Right Here (Name of Author Here)
 
