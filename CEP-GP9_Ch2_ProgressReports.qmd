@@ -25,7 +25,7 @@ csl: american-marketing-association.csl
 
 ## Evidence Search and Approach Challenge
 
--   [Google Drive Containing Individual Reports](https://drive.google.com/drive/folders/1du_W7r7T4k9v3Y39YWYY-aHQAu7HKRU8?usp=sharing)
+- [Google Drive Containing Individual Reports](https://drive.google.com/drive/folders/1du_W7r7T4k9v3Y39YWYY-aHQAu7HKRU8?usp=sharing)
 
 # Progress Report 2
 
@@ -95,7 +95,7 @@ The existing research shows that food quality, service quality, and atmosphere o
 | [@hanaysha2022; [@veloso2023]                            |                                                                                                        |                                                                                                |                                                                                                              |                                                                                                                  |
 +----------------------------------------------------------+--------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
 
-: AO Model Comparison Table
+: AO3 Model Comparison Table
 
 Digital Consumer Engagement and Customer Behavioral Response are the strongest fits for AO3 because they are directly connected to Facebook engagement with downstream behavior. Digital Consumer Engagement helps explain how customers react to different Facebook content and messaging, while Behavioral Response helps connect the initial engagement to an action that is taken later like making a reservation or visiting the RKR. This combination fits AO3 better than the others because they are more useful for explaining why specific posts perform better, and intention, but don't explain the following steps in the customer journey.
 
@@ -122,7 +122,7 @@ AO4 Model Comparison Table
 +----------------------------------------------------+------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------+
 | Approach / Model                                   | What It Explains                                                                               | Evidence for / Against                                                                                                                                                                 | Data / Assumptions                                                                                                                                                                 | Fit with AO                                                                                                |
 +====================================================+================================================================================================+========================================================================================================================================================================================+====================================================================================================================================================================================+============================================================================================================+
-| Stimulus–Organism–Response (S–O–R) Framework \     | How social media content can affect what people think and how they respond.                    | Restaurant research supports connections between social media marketing, perceived value, and behavioral intentions. It does not show which Instagram format gets the most engagement. | Would need audience feedback to measure perceptions, along with engagement data. Assumes those perceptions help explain the response.                                              | Good support for explaining audience responses, but Instagram Insights cannot test the whole framework.    |
+| Stimulus–Organism–Response (S–O–R) Framework\      | How social media content can affect what people think and how they respond.                    | Restaurant research supports connections between social media marketing, perceived value, and behavioral intentions. It does not show which Instagram format gets the most engagement. | Would need audience feedback to measure perceptions, along with engagement data. Assumes those perceptions help explain the response.                                              | Good support for explaining audience responses, but Instagram Insights cannot test the whole framework.    |
 | [@bushara2023]                                     |                                                                                                |                                                                                                                                                                                        |                                                                                                                                                                                    |                                                                                                            |
 +----------------------------------------------------+------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------+
 | Processing Fluency \[[@philp2022]\]                | Why clear and recognizable food images may be easier to understand and engage with.            | Typical-looking food images were linked to stronger engagement, but this does not tell us whether Reels, carousels, or single images work best.                                        | Posts would need to be grouped by visual characteristics and compared using engagement metrics. Audience feedback would be needed to test the explanation directly.                | Helpful for the visual content part of the AO, but not enough to answer the full objective.                |
@@ -140,23 +140,49 @@ The research suggests that both visual presentation and content purpose can affe
 
 ## Investigation of Currently Available Research Framework/Model
 
-### AO1. Title of AO1 Right Here (Name of Author Here)
+### AO1. Newsletter Design and Reservation Growth (Leeann Lewis-Waddell) {#sec-ao1-title-ao1}
 
-*See the callout-note section above for instructions on this section. For each AO, provide the entire AO exactly as you specified in Chapter 1 so that readers do not have to refer back to the previous chapter.*
+**Analytics Objective:** Compare "Reserve a Table" click rates and attributed OpenTable reservations across RKR newsletter section designs, testing button placement in Fall 2026 and image versus video in Spring 2027.
 
-#### Existence of Well-established Models (2-3 pages per AO)
+#### Existence of Well-established Models
 
-#### Adequateness of Gathered Information (a paragraph per AO)
+Analytics Objective 1 intends to A/B test revisions of the current advertising for the Restaurant at Kellogg Ranch within The Collins Concierge, the department’s weekly newsletter. Specifically, it will test if an image-based or video-based ad will increase "Reserve a Table" clicks in comparison to the current text-only format. After extensive research, three established frameworks inform how that test will be built and executed. AO1 will examine the email response process, visual attention and heuristics, and cognitive load and information overload.
 
-#### Need for Additional Analysis (a paragraph per AO)
+Email marketing response occurs in a sequence, wherein a reader first sees a message, engages with it, and then chooses whether to act on it. Hartemo's newsletter testing model focuses on this response process, linking the factors that affect response to the metrics that measure each step [@hartemo2016]. This study tests eight format variations against a control group. The format of this analysis easily applies directly to the comparison of image and video templates against RKR's current section, which employs a controlled format test with a no-graphic baseline.
 
-#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+A review of Kumar's framework divides newsletter success into relational metrics, such as opens and clicks, and transactional metrics, such as purchases [@kumar2021]. Drawing on 811 newsletters sent to 19,678 loyalty program members, the study determines that design significantly shaped response, and clicks had the strongest relationship to eventual purchase [@kumar2021]. This point supports using click-through rate as AO1's primary metric, with reservations as the secondary, validating measure. With respect to RKR, Kumar’s sequence would apply to three measurable stages: newsletter views in Canva, "Reserve a Table" clicks, and OpenTable reservations.
+
+One point of note: the response process also exposes a gap AO1 has to account for. Since RKR welcomes walk-ins and accepts Bronco Bucks, some readers will move from acknowledging the new template section and move directly to a visit without ever clicking. Therefore, version-specific links or perhaps a "How did you hear about us?" question at booking help capture that path, but would require additional points in the customer journey to address this variable.
+
+As can be expected, readers do not scan a newsletter evenly or in its entirety. Described in detail by Kumar, visual heuristics guide where the eye lands and subsequently what gets clicked. This study details how newsletter readers follow a U-shaped pattern rather than the Z-pattern typical of web pages. It also outlines how the upper-left region produces higher CTR than links placed elsewhere [@kumar2018]. In the current RKR section, “view the menu” is a clickable link at the top center while the "Reserve a Table" button sits at the bottom, below the hours. Because placement carries its own documented effect, both test versions keep the button in the same position; otherwise a change in clicks could come from placement rather than media. Using current metrics as a baseline, AO1 will test relocation of the clickable “Reserve a Table” button for the remainder of the fall, and media additions through the sixteen weeks of Spring.
+
+With regard to adding media to the RKR section of The Collins Concierge, Imagery is known to compete strongly for attention once an email is open. Skourou’s study using eye-tracking technique and tools found that large images captured more attention than discount codes and prices in promotional emails. Notably, what readers chose to look at mapped to their purchase decisions [@skourou2024]. This supports visual content as AO1's main test variable, since the current section depends on a block of text to communicate its key details, specifically food and its accompanying atmosphere. On the contrary, the study also shows that a strong image or video could consequently draw focus away from the button it is meant to support.
+
+Industry guides from Semrush and OpenTable support the aforementioned notion. High-quality images are most recommended, coupled with contrasting CTAs, and testing one variable at a time over at least two weeks [@go2024]. OpenTable's restaurant guide adds that key information belongs at the top, supported by strong food photos and bold CTA buttons [@jones2023]. For RKR, Chef Matt's seasonal dishes offer natural subject matter for either format.
+
+This objective intends to be mindful of the potential for cognitive overload and the possibility to annoy or turn-off the target audience. Visual content can compete for a reader's limited attention rather than enhance or entice. A large field experiment found that while GIFs and emojis did not affect CTR individually, combining them inadvertently increased unsubscribes, as the elements competed for the same cognitive resources [@bashirzadeh2022]. As such, AO1 aims to add only one visual element at a time. The image and video templates will match in layout, copy, and button placement, making media the only variable.
+
+Research for this objective also flags the potential for inbox overload. Several studies found university recipients reported receiving 30 bulk emails in a single week, often opening them without reading and trashing 22% of newsletters [@kong2021]. At one business school, academics received 324 organizational bulk emails in a single year with no option to unsubscribe [@bicudodecastro2025]. As such, if Collins Concierge readers are facing similar volume in addition to academic workload, this objective must acknowledge that a redesign may not move CTR regardless of format. This is why AO1 measures clicks per view directly rather than relying on open rates.
+
+Email also struggles when it lacks a clear role in the audience's decision process. Survey respondents reacted with resistance and irritation toward email marketing that did not fit their customer journey [@zunac2022]. The results of this study justify treating the redesign as one input toward reservations rather than its sole driver.
+
+#### Adequateness of Gathered Information
+
+The information above is significantly adequate in addressing the low click-rate of RKR’s newsletter channel. It addresses the potential roadblocks in attracting the attention need to gain awareness, which is overall design and aesthetics, particularly as it relates to the placement of the desired goal, which it button location, but also fatigue since the section does not change and does not employ eye-catching media. On the other hand, it raises red flags with regard to extenuating circumstances which may supercede the design optimization, which are out of RKR’s control such as inbox overload. The studies align with industry suggestions, all of which are actionable and applicable to the business problem. The only biases are really in the industry guides from Semrush and OpenTable, since they are businesses providing free resources to sway readers into purchasing services [@go2024], [@jones2023]. Additionally, the eye-tracking study had a very small pool of participants, and the Zunac study of the effectiveness of email as a single marketing channel was largely comprised of female participants, making the data somewhat biased [@skourou2024], [@zunac2022]. This research will be applied to revising the RKR section of The Collins Concierge, by addressing button placement and aesthetics. Beginning with a baseline of the previous issue’s metrics, Fall will test only relocation of the button to the upper left, and Spring will A/B test video versus image.
+
+#### Need for Additional Analysis
+
+Since the gathered information was largely sufficient but missing data specific to the Concierge's audience, additional analysis is needed to fully address the AO. None of the reviewed studies looked at a restaurant section inside a university newsletter, so primary data will fill that gap. Beginning with a baseline of CTR from previous Concierge issues pulled from Canva, Fall will measure the effect of moving the "Reserve a Table" button to the upper left of the current text-only section, and Spring will A/B test image versus video, alternating weekly with the button in the same position. Page views will be tracked alongside clicks, since the university studies suggest inbox overload could keep readers from ever reaching the RKR section; this will help determine whether low CTR is a design problem or a readership problem [@kong2021], [@bicudodecastro2025]. Each version will also use its own link to OpenTable so reservations can be tied back to the format that drove them. On the other hand, clicks will not capture everyone, particularly guests who walk in or pay with Bronco Bucks, so a "How did you hear about us?" question at booking will help account for those visits. Holidays, finals, and campus events will be noted throughout, since alternating weekly means outside factors could affect results. Click rates between versions will be compared using a two-proportion test to confirm whether differences are meaningful.
+
+#### Assessment and Affirmation of Analytics Objectives 
+
+The original AO set out to A/B test two RKR section formats in The Collins Concierge from October 2026 to June 2027, comparing "Reserve a Table" click rates and attributed OpenTable reservations between versions. It still holds, but the research has narrowed it, particularly as it relates to what is being tested and when. It addresses RKR's need to build sustainable demand by improving a section that is currently easy to scroll past, with no imagery and a button placed at the bottom, below the hours. On the other hand, testing media and button placement at the same time would make it impossible to know which change caused an increase, so the AO will be split into two phases. Two other approaches were considered. A factorial test would compare every combination of button placement and media at once \[\@hartemo2016\]. However, it would require splitting the mailing list into four groups, leaving too few issues per version within one semester. A bundled redesign would be simpler, but it would not show which change made the difference. As such, the two-phase approach is the most practical option for isolating one change at a time. Beginning with a baseline of CTR from previous issues, Fall will test only the relocation of the button to the upper left, and Spring will A/B test video versus image, alternating weekly with the button in the same position. Canva will be used to track page views and clicks, which is necessary for separating a design problem from a readership problem, and each version will use its own link to OpenTable to tie reservations back to the format. A two-proportion test will compare click rates between versions, since it is a simple and appropriate way to determine whether a difference is real or due to chance. These tools are appropriate because they are already available to RKR and the Concierge team, they require no individual reader data, and they follow the same steps a reader takes from viewing the newsletter to clicking to booking [@hartemo2016].
 
 ### AO2. Customer Experience Factors Associated With Overall Satisfaction (Carmen Jimenez)
 
 **Analytics Objective:** Using anonymous post-visit survey responses, compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment to identify the strongest and weakest experience areas.
 
-#### Existence of Well-established Models (2-3 pages per AO)
+#### Existence of Well-established Models
 
 Customer satisfaction is generally understood as a guest’s overall evaluation of a dining experience. In restaurant settings, this evaluation is usually influenced by several parts of the experience rather than by one factor alone. For AO2, the most relevant dimensions are food quality, service quality, and atmosphere or the physical environment. These dimensions provide a useful framework for understanding what RKR guests value most and where improvements may be needed.
 
@@ -188,15 +214,15 @@ The survey will use five-point rating items to measure food quality, service qua
 
 This limitation is important because the previous studies were conducted in restaurant settings that differ from RKR. RKR is a student-operated restaurant located on a university campus and serves its own mix of guests. The existing models can guide the research design, but primary survey data from RKR guests are still necessary to understand the restaurant’s specific customer experience. For that reason, the literature provides the framework for AO2, while the RKR survey will provide the evidence needed to identify strengths and improvement opportunities.
 
-#### Adequateness of Gathered Information (a paragraph per AO)
+#### Adequateness of Gathered Information
 
 The gathered information is sufficient to identify the main dimensions that should be measured for AO2, including food quality, service quality, atmosphere or physical environment, overall satisfaction, and future behavioral intentions. The reviewed studies are generally consistent in showing that these dimensions are important parts of the restaurant experience, and several of the sources are directly based on restaurant settings [@ryu2012; @namkung2007; @han2009; @heung2012]. However, the existing research is not sufficient to determine which dimensions RKR guests currently evaluate most positively or which areas need the most improvement. The studies were conducted in different restaurant contexts and populations, so their findings cannot be assumed to apply directly to RKR. Primary survey data from RKR guests are therefore necessary to complete the objective. Possible limitations of the planned survey include convenience sampling, nonresponse bias, and the possibility that guests with a connection to Cal Poly Pomona or RKR may provide more favorable responses. The existing literature will therefore be used to guide what is measured, while the RKR survey will provide the restaurant-specific evidence needed to identify strengths and improvement opportunities.
 
-#### Need for Additional Analysis (a paragraph per AO)
+#### Need for Additional Analysis
 
 Additional analysis is needed because the existing research cannot determine which parts of the RKR dining experience are currently strongest or weakest for its own guests. To address this gap, anonymous post-visit survey responses will be analyzed using response counts, percentages, and average ratings for food quality, service quality, atmosphere or physical environment, and overall satisfaction. Open-ended comments will also be reviewed and grouped into recurring themes to provide additional context about what guests value and what they believe could be improved. Intention to return and willingness to recommend will be summarized as secondary descriptive indicators. If the number of responses is sufficient, simple exploratory correlations may also be used to describe how the experience dimensions are associated with overall satisfaction. These analyses will not be interpreted as causal evidence. The additional primary-data analysis will allow RKR to apply the existing research framework to its own guests and identify specific customer-experience priorities that cannot be determined from the literature alone.
 
-#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+#### Assessment and Affirmation of Analytics Objectives 
 
 The current AO2 remains appropriate because it directly addresses RKR’s need to understand which parts of the guest experience are performing well and which areas may require improvement. The objective is measurable using anonymous post-visit survey responses and is closely aligned with PO2, which focuses on identifying what RKR guests value most and where improvements are needed in the overall dining experience.
 
@@ -226,153 +252,95 @@ A separate challenge that was brought up was that customer engagement might also
 
 Overall, the research supports the main idea behind AO3, but also shows that Facebook performance should not be judged by engagement alone. The studies show that visual presentation, message style, content characteristics, and different types of engagement can play a role in how consumers respond to social media content. At the same time, the challenging studies show that engagement does not always lead to conversion because there are other factors that play a role in influencing a consumer. These factors can be purchase intention, brand attitude, information quality, and activity on other platforms. As a result of these challenges , AO3 should compare Facebook content and messaging strategies using both engagement metrics and OpenTable reservation activity instead of relying on one type of measure on its own. 
 
-#### Adequateness of Gathered Information (a paragraph per AO)
+#### Adequateness of Gathered Information 
 
 The information gathered for AO3 is adequate because the sources cover the key ideas that are important to the objective. These key ideas include Facebook content, messaging style, engagement, restaurant behavior, and booking or purchase intent. Some of the studies used are very relevant because they focus directly on Facebook or restaurant settings, like the work of Manningham, Asselin, and Bourguignon and Halloran and Lutz ([Manningham, Asselin, and Bourguignon 2024b](file:///C:/Users/LAHUM/OneDrive/Desktop/IBM%206500/RKR%20CEP%20Project/RKR%20Project/index.html#ref-manningham2024a)); ([Halloran and Lutz 2021b](file:///C:/Users/LAHUM/OneDrive/Desktop/IBM%206500/RKR%20CEP%20Project/RKR%20Project/index.html#ref-halloran2021a)). The research also used different methods, including content analysis, surveys, experiments, eye tracking, and regression analysis, which provides different types of evidence that can support AO3. There were also some studies that did not hold the same level of quality because the studies performed focused on hotels, Instagram, or other social media platforms instead of Facebook to restaurant activity. They also differed on what was being measured, such as purchase intention, visit intention, or booking intention rather than actual customer behavior. Overall, the research is strong enough to support AO3, but it does not fully answer whether Facebook engagement is connected to actual OpenTable activity, which shows why there is additional analysis that is needed. 
 
-#### Need for Additional Analysis (a paragraph per AO)
+#### Need for Additional Analysis 
 
 Additional analysis is still needed because the research gathered does not completely show how Facebook affects customer response at RKR. The studies show that social media content and messaging can affect engagement, attention, and purchase or booking intent, but many of them don’t measure actual reservations or visits. For my part of the project, I will focus on RKR’s Facebook data by comparing different content types, messaging styles, and engagement metrics with available OpenTable Activity. Trackable links or QR codes can also help show if Facebook activity is connected to reservation behavior at RKR. Overall, this analysis will show what role Facebook may have within RKR’s larger digital marketing strategy.
 
-#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+#### Assessment and Affirmation of Analytics Objectives
 
 Based on the reviewed research, AO3 should remain the same because it directly supports RKR’s larger goal of building sustainable demand. AO3 focuses on Facebook and whether specific content and messaging strategies are connected to stronger engagement and OpenTable reservation activity. 
 
 To complete AO3, I plan to organize RKR’s Facebook posts into different content and messaging categories and compare how they perform using metrics such as likes, comments, shares, link clicks. I can then compare these results with available OpenTable activity to see if specific Facebook Strategies are also connected to stronger reservation related behavior. These methods allow me to look at both Facebook engagement and customer behavior instead of only using social media metrics. This approach also fits with the larger project because it uses both social media performance and reservation data. 
 
-### AO4. Title of AO4 Right Here (Name of Author Here)
-
-#### Existence of Well-established Models (2-3 pages per AO)
-
-#### Adequateness of Gathered Information (a paragraph per AO)
-
-#### Need for Additional Analysis (a paragraph per AO)
-
-#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
-
-### AO5. Instagram Content and Engagement Analysis (Spencer Conway)
-
-**Analytics Objective:** This analytics objective will determine which Instagram content format produces the highest engagement rate for Restaurant at Kellogg Ranch. First, past posts will be grouped by format to establish a performance baseline. RKR will then test new content in selected formats and compare its performance with the baseline. Engagement rate will be calculated consistently using likes, comments, shares, and saves divided by reach, where Instagram Insights data are available. The findings will guide recommendations about which formats RKR should prioritize in future Instagram posts.
+### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
 #### Existence of Well-established Models
 
-There are a few theories and research approaches that can help support AO5. The main ideas that connect to this objective are customer engagement, the Stimulus-Organism-Response model, inspiration, and visual presentation on social media. These ideas help explain why different Instagram posts or formats may get different reactions from customers.
+Website usability is relevant to RKR because prospective guests need practical information before deciding whether and when to visit. This objective examines three specific activities: finding the menu, identifying operating hours, and reaching the reservation process. The literature provides complementary perspectives on technology acceptance, information quality, and usability measurement. Together, these perspectives explain why the study should assess both what visitors can accomplish and how they evaluate the experience. The following applications to RKR are proposed research choices rather than findings about its current website.
 
-Lee and Kwak (2026) studied restaurant social media and found that the way food is shown can affect customer inspiration and engagement. Outcome-focused food images performed better than process-focused images in their study. This is useful for AO5 because it shows that the way restaurant content is presented can make a difference in how people respond to it.
+**Perceived ease of use and usefulness.** Davis’s technology acceptance research distinguishes perceived usefulness from perceived ease of use and develops measures of both constructs. The study reports relationships between these perceptions and system use, with usefulness showing a stronger relationship than ease of use [@davis1989]. This distinction matters because a website can feel simple to navigate while failing to provide information that helps a visitor make a decision. Conversely, useful information may require substantial effort to find. The original research concerns information technology acceptance rather than restaurant reservations, so it provides a theoretical starting point rather than direct evidence about RKR guests.
 
-Bushara et al. (2023) used the Stimulus-Organism-Response model to study restaurant social media. Their study found that things like entertainment, interaction, customization, and trendiness can affect perceived value and customer behavior. This connects to AO5 because RKR's Instagram posts can be viewed as the stimulus and likes, comments, shares, and saves can be viewed as customer responses. One limitation is that Instagram Insights does not tell us exactly what a customer was thinking or feeling before engaging with a post.
+For this project, perceived ease will be assessed immediately after each task by asking how easy or difficult it was to complete. A separate overall item will ask whether the website provided the information needed to plan a visit. These questions address different judgments: effort and usefulness. For example, locating a menu quickly does not establish whether its contents meet a visitor’s information needs. The proposed brief items adapt the concepts to RKR; they will not be described as the complete validated Davis scales. Pilot feedback should establish whether participants understand the wording and response options.
 
-Philp, Jacobson, and Pancer (2022) also looked directly at restaurant food marketing on Instagram. They found that the visual characteristics of food images were connected to likes and comments. This supports AO5 because it shows that actual Instagram post data can be used to compare different types of content and see which characteristics are connected to stronger engagement.
+**Information quality and hospitality decisions.** Jeong and Lambert evaluated an information-quality framework using eight hypothetical lodging websites and 240 conference attendees. Their findings identified perceived usefulness and attitudes as significant indicators of customers’ purchase-related behavior within that study [@jeong2001]. This hospitality application supports examining information as part of a visitor’s decision process, rather than treating a website only as a promotional display. However, simulated hotel websites and conference attendees differ from a student-operated restaurant and its prospective guests. The study therefore motivates local investigation without establishing that the same relationships or effect sizes apply to RKR.
 
-Kulikovskaja et al. (2023) found that different types of social media content can lead to different types of customer engagement. This is important because RKR should not treat every Instagram post the same way. A Reel, carousel, or single-image post may give customers a different experience and may also create different levels of engagement.
+For RKR, the proposed assessment will distinguish finding a page from finding the correct information. A menu task will require participants to identify the relevant menu, and an hours task will require them to state the posted hours for a specified service period. Before testing, the research team will verify the correct answers against the current website and record the testing date. This procedure should help distinguish a navigation problem from unclear or inconsistent content. Participant comments can identify information they expected but could not find; the team should verify those observations before recommending a content change.
 
-Chan, Chen, and Leung (2023) also found that visual presentation can affect how customers respond to restaurant social media. Their research showed that factors such as visual variety and movement can make a difference. This relates to AO5 because Instagram formats have different visual characteristics. For example, a Reel uses movement and video, while a regular post is more static.
+**Information systems success.** DeLone and McLean’s updated information systems success model provides a broader framework for evaluating systems and discusses its application to electronic commerce [@delone2003]. Its relevance here is that website success requires an explicit definition of the outcomes being evaluated. AO4 will focus on a limited part of the customer journey: successful access to dining information and the reservation interface. It will not claim to test the entire information systems success model.
 
-Overall, the research supports the idea that the way restaurant social media content is presented can affect customer engagement. However, the existing research does not tell us exactly which Instagram format will work best for RKR. This is why analyzing RKR's own Instagram data is still needed.
+This boundary is important for interpreting the proposed results. A participant who reaches the reservation interface has completed the navigation task, even if no suitable table is available. A participant who reports that the website is helpful has expressed a perception, not made a booking. Reservation completion, revenue, and repeat patronage require additional evidence beyond this usability exercise. Consequently, the project objective is to recommend improvements that support access; any later claim that those improvements increase reservations would require implementation and follow-up measurement.
 
-## 2. Guidelines for Basic/Applied Academic Research Project
+**Usability as performance and perception.** Hornbæk’s review of 180 usability studies emphasizes the need to distinguish and compare objective performance measures with subjective evaluations. It also highlights problems with treating usability too narrowly or using measures without sufficient justification [@hornbaek2006]. This supports collecting several complementary measures for AO4: task success, elapsed time, and perceived ease. These measures should be reported separately because a visitor can succeed slowly, fail quickly, or complete a task while finding the process frustrating.
 
-If your project doesn't have a client and is intended to benefit the public or industry directly, you may find the contents for Chapter 2 described above unfit to your project. In that case, the contents provided next may be better for you. Consult with your professors.
+The proposed study will calculate unassisted completion as the number of participants who finish a task correctly without help divided by the number who attempt it. Median completion time in seconds will summarize successful, unassisted attempts; assisted attempts, unsuccessful attempts, and timeouts will be reported separately. Immediately after every attempted task, participants will rate ease from 1 (very difficult) to 5 (very easy). Navigation observations and a short open-ended question will help explain the quantitative results. These operational definitions make the objective measurable while preserving the distinction between observed behavior and self-reported experience.
 
-# CHAPTER 2: For Basic/Applied Academic Research Project {#sec-ch2-for-basic-applied-academic-research-project .unnumbered .unlisted}
+#### Adequateness of Gathered Information
 
-::: page-note
-*(3 - 4 pages per AO). Use the same chapter title as the client consulting project.*
-:::
+The selected scholarly sources provide a foundation for choosing constructs and measures, but they cannot establish how well the current RKR website serves its users. They include foundational information-systems research, a usability review, and hospitality website research; their age and differing contexts limit direct transfer to contemporary mobile browsing and RKR’s audience. Existing evidence is therefore adequate for developing the study but insufficient for answering AO4. Primary observations and post-task survey responses are needed from prospective guests, including campus and community participants where feasible. Prior familiarity with RKR and the website should be recorded because experienced users may navigate differently from first-time visitors.
 
-::: callout-note
-## Basic/Applied Academic Research Project
+#### Need for Additional Analysis
 
-If you are completing a Basic/Applied Academic Research Project type, you do not have a client company to analyze for company-specific analysis. Therefore, you cannot fill out the client-specific sections. This is why you should follow the structure of the front end of an **academic research paper**.
+Participants will attempt the three tasks from the same starting page, using neutral instructions that do not reveal where to click. The team will pilot the procedure, set a consistent time limit before main data collection, vary task order across participants, and record device type and prior website familiarity. Timing will stop at success, a request for help, abandonment, or the time limit. The reservation task will end when the participant reaches the interface for beginning a reservation; no purchase or booking is required. For each task, analysis will report the success numerator and denominator, completion percentage, median successful completion time, and distribution of ease ratings, alongside recurring navigation problems. A proposed benchmark of 80% unassisted completion will be applied separately to each task; this is a project planning target, not a threshold established by the cited studies. Missing responses and technical failures will be documented separately from navigation failures.
 
--   For the **Basic/Applied Academic Research Project type**, Chapter 2 should follow the structure of the front end of an academic research paper, which includes an overall introduction, a literature review, theoretical development, and hypothesis development for each AO. The purpose of this chapter is to provide a comprehensive understanding of the research topic and to establish a strong foundation for the analytics objectives by grounding them in relevant theories and models.
+#### Assessment and Affirmation of Analytics Objectives
 
--   You will find the content and structure guidelines below is consistent with the academic papers published in many journals, such as the *Journal of Marketing*, *Journal of Consumer Research*, *Journal of the Academy of Marketing Science*, etc. You can refer to these journals for examples of how to structure and write this chapter.
-:::
+AO4 remains appropriate because it connects PO4 to three observable tasks and defined measures. The reviewed frameworks support distinguishing useful information, perceived ease, and observed performance. They do not establish which changes RKR needs; primary testing will supply that evidence. Two descriptive research questions guide the assessment: How successfully can prospective guests locate the menu, identify operating hours, and reach the reservation interface, and does each task meet the proposed 80% unassisted completion target? Which content or navigation difficulties accompany unsuccessful attempts, longer successful completion times, or lower ease ratings?
 
-## Overall Introduction
+Recommendations will link each observed problem to a specific proposed change and a corresponding measure for follow-up testing. For example, difficulty locating hours may justify clearer placement or labeling, while trouble reaching the reservation widget may justify a more visible entry point. These are possible recommendations to evaluate rather than conclusions about the current website. A later test using the same task definitions would be needed to assess improvement after implementation.
 
-::: callout-note
-*Briefly introduce the business or social problem(s) the group is addressing. Summarize the purpose of the study, key theoretical concepts (constructs), analytical focus, and the expected practical and academic contributions.*
+The objective is primarily descriptive, so this review does not require separate causal hypotheses. Results from a convenience sample will describe the tested participants, with device type and prior familiarity considered during interpretation. The three tasks completed by one participant will not be treated as three independent participants. Successful navigation, perceived usefulness, completed reservations, and revenue remain distinct outcomes. This scope allows AO4 to support the group’s reservation goal while keeping its conclusions proportional to the data collected.
 
--   You can write this section in a way that is similar to the introduction section of an academic research paper. Refer to journal articles for examples of how to write this section.
+### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
--   This section is for the entire AO's, so you should not write this section separately for each AO. Instead, you can write this section once at the beginning of Chapter 2, and then write the literature review, theoretical development, and hypothesis sections separately for each AO.
-:::
+#### Existence of Well-established Models
 
-## AO1. Title of AO1 Right Here (Name of Author Here)
+Website usability is relevant to RKR because prospective guests need practical information before deciding whether and when to visit. This objective examines three specific activities: finding the menu, identifying operating hours, and reaching the reservation process. The literature provides complementary perspectives on technology acceptance, information quality, and usability measurement. Together, these perspectives explain why the study should assess both what visitors can accomplish and how they evaluate the experience. The following applications to RKR are proposed research choices rather than findings about its current website.
 
-::: callout-note
-*Each student must write an individual section corresponding to their assigned analytics objective. These sections should be structured as follows:*
+**Perceived ease of use and usefulness.** Davis’s technology acceptance research distinguishes perceived usefulness from perceived ease of use and develops measures of both constructs. The study reports relationships between these perceptions and system use, with usefulness showing a stronger relationship than ease of use [@davis1989]. This distinction matters because a website can feel simple to navigate while failing to provide information that helps a visitor make a decision. Conversely, useful information may require substantial effort to find. The original research concerns information technology acceptance rather than restaurant reservations, so it provides a theoretical starting point rather than direct evidence about RKR guests.
 
-**Literature Review**
+For this project, perceived ease will be assessed immediately after each task by asking how easy or difficult it was to complete. A separate overall item will ask whether the website provided the information needed to plan a visit. These questions address different judgments: effort and usefulness. For example, locating a menu quickly does not establish whether its contents meet a visitor’s information needs. The proposed brief items adapt the concepts to RKR; they will not be described as the complete validated Davis scales. Pilot feedback should establish whether participants understand the wording and response options.
 
-*Conduct a focused academic literature review related to the construct(s) behind the analytics objective. Include an evaluation of the quality of evidence gathered (e.g., recognize issues in terms of bias, accuracy, new findings, etc. for the information gathered) and the need for additional analysis (to support proposed research)*
+**Information quality and hospitality decisions.** Jeong and Lambert evaluated an information-quality framework using eight hypothetical lodging websites and 240 conference attendees. Their findings identified perceived usefulness and attitudes as significant indicators of customers’ purchase-related behavior within that study [@jeong2001]. This hospitality application supports examining information as part of a visitor’s decision process, rather than treating a website only as a promotional display. However, simulated hotel websites and conference attendees differ from a student-operated restaurant and its prospective guests. The study therefore motivates local investigation without establishing that the same relationships or effect sizes apply to RKR.
 
--   Instead of the title, "Literature review," you can use a more specific title that reflects the content of the section, such as "User generated content" or "Consumer Response to AI-Generated Content."
+For RKR, the proposed assessment will distinguish finding a page from finding the correct information. A menu task will require participants to identify the relevant menu, and an hours task will require them to state the posted hours for a specified service period. Before testing, the research team will verify the correct answers against the current website and record the testing date. This procedure should help distinguish a navigation problem from unclear or inconsistent content. Participant comments can identify information they expected but could not find; the team should verify those observations before recommending a content change.
 
-**Theoretical Development**
+**Information systems success.** DeLone and McLean’s updated information systems success model provides a broader framework for evaluating systems and discusses its application to electronic commerce [@delone2003]. Its relevance here is that website success requires an explicit definition of the outcomes being evaluated. AO4 will focus on a limited part of the customer journey: successful access to dining information and the reservation interface. It will not claim to test the entire information systems success model.
 
-*This section is the continuation of the literature review. Develop a logical and theoretical argument based on the literature review that is directly relevant to the analytics objective.*
+This boundary is important for interpreting the proposed results. A participant who reaches the reservation interface has completed the navigation task, even if no suitable table is available. A participant who reports that the website is helpful has expressed a perception, not made a booking. Reservation completion, revenue, and repeat patronage require additional evidence beyond this usability exercise. Consequently, the project objective is to recommend improvements that support access; any later claim that those improvements increase reservations would require implementation and follow-up measurement.
 
--   Instead of the title, "Theoretical development," you can use a more specific title that reflects the content of the section, such as "User generated content in the Era of AI" or "Current Status of Consumer Acceptance of AI-generated Content."
+**Usability as performance and perception.** Hornbæk’s review of 180 usability studies emphasizes the need to distinguish and compare objective performance measures with subjective evaluations. It also highlights problems with treating usability too narrowly or using measures without sufficient justification [@hornbaek2006]. This supports collecting several complementary measures for AO4: task success, elapsed time, and perceived ease. These measures should be reported separately because a visitor can succeed slowly, fail quickly, or complete a task while finding the process frustrating.
 
-**Hypothesis**
+The proposed study will calculate unassisted completion as the number of participants who finish a task correctly without help divided by the number who attempt it. Median completion time in seconds will summarize successful, unassisted attempts; assisted attempts, unsuccessful attempts, and timeouts will be reported separately. Immediately after every attempted task, participants will rate ease from 1 (very difficult) to 5 (very easy). Navigation observations and a short open-ended question will help explain the quantitative results. These operational definitions make the objective measurable while preserving the distinction between observed behavior and self-reported experience.
 
-*Conclude the section above by identifying the clear and testable hypothesis that results from theoretical development. Each hypothesis is typically linked to a construct. In some cases, multiple AO’s may relate to the same construct (from different perspectives), or multiple AO’s may contribute to the evaluation of a single hypothesis.*
+#### Adequateness of Gathered Information
 
--   You should not have a separate title for hypothesis. Instead, you can just write the hypothesis at the end of the theoretical development section without a title. For example, you can write, "Based on the above theoretical development, we propose the following hypothesis: \[state the hypothesis here\]." See journal articles for examples of how to write a hypothesis.
+The selected scholarly sources provide a foundation for choosing constructs and measures, but they cannot establish how well the current RKR website serves its users. They include foundational information-systems research, a usability review, and hospitality website research; their age and differing contexts limit direct transfer to contemporary mobile browsing and RKR’s audience. Existing evidence is therefore adequate for developing the study but insufficient for answering AO4. Primary observations and post-task survey responses are needed from prospective guests, including campus and community participants where feasible. Prior familiarity with RKR and the website should be recorded because experienced users may navigate differently from first-time visitors.
 
--   You need to write a hypothesis only if your AO is related to testing a relationship between two or more constructs. If there is not a strong theoretical development that leads to a testable hypothesis, you may not need to write a hypothesis. In that case, you can call it research questions. For example, you can write, "Based on the above theoretical development, we propose the following research question: \[state the research question here\]." See journal articles for examples of how to write a research question.
-:::
+#### Need for Additional Analysis
 
-### Literature Review
+Participants will attempt the three tasks from the same starting page, using neutral instructions that do not reveal where to click. The team will pilot the procedure, set a consistent time limit before main data collection, vary task order across participants, and record device type and prior website familiarity. Timing will stop at success, a request for help, abandonment, or the time limit. The reservation task will end when the participant reaches the interface for beginning a reservation; no purchase or booking is required. For each task, analysis will report the success numerator and denominator, completion percentage, median successful completion time, and distribution of ease ratings, alongside recurring navigation problems. A proposed benchmark of 80% unassisted completion will be applied separately to each task; this is a project planning target, not a threshold established by the cited studies. Missing responses and technical failures will be documented separately from navigation failures.
 
-### Theoretical Development
+#### Assessment and Affirmation of Analytics Objectives
 
-### Hypothesis
+AO4 remains appropriate because it connects PO4 to three observable tasks and defined measures. The reviewed frameworks support distinguishing useful information, perceived ease, and observed performance. They do not establish which changes RKR needs; primary testing will supply that evidence. Two descriptive research questions guide the assessment: How successfully can prospective guests locate the menu, identify operating hours, and reach the reservation interface, and does each task meet the proposed 80% unassisted completion target? Which content or navigation difficulties accompany unsuccessful attempts, longer successful completion times, or lower ease ratings?
 
-<br>
+Recommendations will link each observed problem to a specific proposed change and a corresponding measure for follow-up testing. For example, difficulty locating hours may justify clearer placement or labeling, while trouble reaching the reservation widget may justify a more visible entry point. These are possible recommendations to evaluate rather than conclusions about the current website. A later test using the same task definitions would be needed to assess improvement after implementation.
 
-::: callout-note
-*You may apply the structure of AO1 to the rest of the AO sections (AO2, AO3, AO4, and AO5). However, you are not required to follow the same structure for all AO sections. You can use different structures for different AO sections as long as you cover the three main components: literature review, theoretical development, and hypothesis/research question. The key is to ensure that each section is well-organized, logically flows, and effectively communicates the relevant information to support the analytics objective.*
-:::
-
-## AO2. Title of AO2 Here (Name of Author Here)
-
-### Literature Review
-
-### Theoretical Development
-
-### Hypothesis
-
-## AO3. Title of AO3 Here (Name of Author Here)
-
-### Literature Review
-
-### Theoretical Development
-
-### Hypothesis
-
-## AO4. Title of AO4 Here (Name of Author Here)
-
-### Literature Review
-
-### Theoretical Development
-
-### Hypothesis
-
-## AO5. Title of AO5 Here (Name of Author Here)
-
-### Literature Review
-
-### Theoretical Development
-
-### Hypothesis
-
-------------------------------------------------------------------------
-
-{{< pagebreak >}}
+The objective is primarily descriptive, so this review does not require separate causal hypotheses. Results from a convenience sample will describe the tested participants, with device type and prior familiarity considered during interpretation. The three tasks completed by one participant will not be treated as three independent participants. Successful navigation, perceived usefulness, completed reservations, and revenue remain distinct outcomes. This scope allows AO4 to support the group’s reservation goal while keeping its conclusions proportional to the data collected.
 
 ## References {.unnumbered}
 
