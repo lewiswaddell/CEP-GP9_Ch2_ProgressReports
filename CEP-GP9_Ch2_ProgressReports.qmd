@@ -250,15 +250,25 @@ To complete AO3, I plan to organize RKR’s Facebook posts into different conten
 
 #### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
 
-### AO5. Title of AO5 Right Here (Name of Author Here)
+### AO5. Instagram Content and Engagement Analysis (Spencer Conway)
 
-#### Existence of Well-established Models (2-3 pages per AO)
+**Analytics Objective:** This analytics objective will determine which Instagram content format produces the highest engagement rate for Restaurant at Kellogg Ranch. First, past posts will be grouped by format to establish a performance baseline. RKR will then test new content in selected formats and compare its performance with the baseline. Engagement rate will be calculated consistently using likes, comments, shares, and saves divided by reach, where Instagram Insights data are available. The findings will guide recommendations about which formats RKR should prioritize in future Instagram posts.
 
-#### Adequateness of Gathered Information (a paragraph per AO)
+#### Existence of Well-established Models
 
-#### Need for Additional Analysis (a paragraph per AO)
+There are a few theories and research approaches that can help support AO5. The main ideas that connect to this objective are customer engagement, the Stimulus-Organism-Response model, inspiration, and visual presentation on social media. These ideas help explain why different Instagram posts or formats may get different reactions from customers.
 
-#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+Lee and Kwak (2026) studied restaurant social media and found that the way food is shown can affect customer inspiration and engagement. Outcome-focused food images performed better than process-focused images in their study. This is useful for AO5 because it shows that the way restaurant content is presented can make a difference in how people respond to it.
+
+Bushara et al. (2023) used the Stimulus-Organism-Response model to study restaurant social media. Their study found that things like entertainment, interaction, customization, and trendiness can affect perceived value and customer behavior. This connects to AO5 because RKR's Instagram posts can be viewed as the stimulus and likes, comments, shares, and saves can be viewed as customer responses. One limitation is that Instagram Insights does not tell us exactly what a customer was thinking or feeling before engaging with a post.
+
+Philp, Jacobson, and Pancer (2022) also looked directly at restaurant food marketing on Instagram. They found that the visual characteristics of food images were connected to likes and comments. This supports AO5 because it shows that actual Instagram post data can be used to compare different types of content and see which characteristics are connected to stronger engagement.
+
+Kulikovskaja et al. (2023) found that different types of social media content can lead to different types of customer engagement. This is important because RKR should not treat every Instagram post the same way. A Reel, carousel, or single-image post may give customers a different experience and may also create different levels of engagement.
+
+Chan, Chen, and Leung (2023) also found that visual presentation can affect how customers respond to restaurant social media. Their research showed that factors such as visual variety and movement can make a difference. This relates to AO5 because Instagram formats have different visual characteristics. For example, a Reel uses movement and video, while a regular post is more static.
+
+Overall, the research supports the idea that the way restaurant social media content is presented can affect customer engagement. However, the existing research does not tell us exactly which Instagram format will work best for RKR. This is why analyzing RKR's own Instagram data is still needed.
 
 ## 2. Guidelines for Basic/Applied Academic Research Project
 
