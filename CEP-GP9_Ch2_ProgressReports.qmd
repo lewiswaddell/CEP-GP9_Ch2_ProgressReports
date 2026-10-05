@@ -57,19 +57,21 @@ Required Work for Each AO
 
 : AO Model Comparison Table
 
+
 ### AO2
 
-+----------------+------------------+----------------------+------------------+-------------+
-| Approach/Model | What It Explains | Evidence for/Against | Data/Assumptions | Fit with AO |
-+================+==================+======================+==================+=============+
-|                |                  |                      |                  |             |
-+----------------+------------------+----------------------+------------------+-------------+
-|                |                  |                      |                  |             |
-+----------------+------------------+----------------------+------------------+-------------+
-|                |                  |                      |                  |             |
-+----------------+------------------+----------------------+------------------+-------------+
+| Approach / Model | What It Explains | Evidence for / Against | Data / Assumptions | Fit with AO |
+|---|---|---|---|---|
+| Multidimensional Restaurant Quality Framework [@ryu2012] | Explains how food quality, service quality, and the physical environment relate to customer satisfaction and behavioral intentions. | Ryu, Lee, and Kim (2012) support evaluating several restaurant-quality dimensions together. The original restaurant context differs from RKR. | Requires guest ratings of food quality, service quality, physical environment, and satisfaction. Assumes guests can evaluate these dimensions separately. | Strongest overall fit because it directly includes the three main experience dimensions measured in AO2. |
+| Food Quality–Satisfaction Approach [@namkung2007] | Explains how food quality relates to customer satisfaction and behavioral intentions. | Namkung and Jang (2007) support food quality as an important part of restaurant satisfaction. The approach focuses mainly on food rather than the entire dining experience. | Requires guest ratings of food-related characteristics such as quality, presentation, enjoyment, and consistency. | Good fit for the food-quality component of AO2, but too narrow to address the full objective alone. |
+| Physical Environment / Atmospherics Approach [@han2009; @heung2012] | Explains how atmosphere and the physical environment relate to satisfaction and behavioral responses. | Han and Ryu (2009) and Heung and Gu (2012) support the importance of the restaurant environment. This approach does not fully account for food or service quality. | Requires guest evaluations of atmosphere and physical-environment characteristics such as cleanliness, comfort, décor, layout, and overall ambiance. | Good fit for the atmosphere and physical-environment component, but not sufficient by itself to address AO2. |
+| Customer Satisfaction–Behavioral Intentions Approach [@arora2006] | Explains how customer satisfaction relates to future intentions such as returning to or recommending a restaurant. | Research supports a relationship between satisfaction and behavioral intentions, but stated intentions do not confirm actual future behavior. | Requires measures of overall satisfaction, intention to return, and willingness to recommend. | Useful secondary fit because AO2 includes return intention and recommendation, but it does not directly identify the strongest and weakest experience areas. |
 
-: AO Model Comparison Table
+: AO2 Model Comparison Table
+
+The Multidimensional Restaurant Quality Framework is the strongest fit for AO2 because it directly includes the three main experience dimensions measured in this objective: food quality, service quality, and the physical environment. Ryu, Lee, and Kim (2012) show that these dimensions are connected to customer satisfaction and behavioral intentions. This framework is broader than the food-quality and physical-environment approaches because it allows the dining experience to be evaluated as a combination of multiple factors rather than focusing on only one area.
+
+The existing research shows that food quality, service quality, and atmosphere or physical environment are important parts of the restaurant experience. However, the literature cannot determine which of these areas RKR guests rate most positively or negatively. This is especially important because RKR is a student-operated restaurant located on a university campus, which may create a different guest experience from the restaurants studied in previous research. For this reason, AO2 still requires primary survey data from RKR guests. The current AO does not need to be revised because it is measurable, directly connected to the available survey data, and aligned with the project objective of identifying strengths and improvement opportunities in the RKR dining experience.
 
 ### AO3 Facebook Content and Messaging Strategies and Reservation Performance
 
@@ -141,15 +143,58 @@ AO4 Model Comparison Table
 
 #### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
 
-### AO2. Title of AO2 Right Here (Name of Author Here)
+### AO2. Customer Experience Factors Associated With Overall Satisfaction (Carmen Jimenez)
+
+**Analytics Objective:** Using anonymous post-visit survey responses, compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment to identify the strongest and weakest experience areas.
 
 #### Existence of Well-established Models (2-3 pages per AO)
+Customer satisfaction is generally understood as a guest’s overall evaluation of a dining experience. In restaurant settings, this evaluation is usually influenced by several parts of the experience rather than by one factor alone. For AO2, the most relevant dimensions are food quality, service quality, and atmosphere or the physical environment. These dimensions provide a useful framework for understanding what RKR guests value most and where improvements may be needed.
+
+A strong framework for AO2 comes from Ryu, Lee, and Kim, who examined how food quality, service quality, and the physical environment contribute to restaurant image, perceived value, customer satisfaction, and behavioral intentions [@ryu2012]. This framework is especially useful for AO2 because it brings together the three main experience dimensions that RKR plans to measure. Instead of evaluating the dining experience only through food or only through service, the framework treats the restaurant experience as multidimensional. This supports the structure of the RKR survey and allows the team to compare different parts of the guest experience using the same rating scale.
+
+For RKR, this multidimensional approach is important because the restaurant experience includes more than the meal itself. Guests interact with the food, the service staff, and the restaurant environment during the same visit. A guest may rate one of these areas very positively while rating another area less favorably. Looking at the dimensions separately can therefore provide more useful information than relying only on one overall satisfaction question. The framework also supports the use of overall satisfaction as a broader measure that can be considered alongside the individual experience dimensions.
+
+Food quality is one of the most established components of restaurant satisfaction. Namkung and Jang found that food quality is associated with customer satisfaction and behavioral intentions in restaurant settings [@namkung2007]. Food quality can include characteristics such as taste, freshness, presentation, temperature, portion size, and consistency. These characteristics help explain why food should be evaluated as its own part of the dining experience rather than being combined with service or atmosphere.
+
+This approach is relevant to AO2 because the survey can ask RKR guests to evaluate their perception of the food experience directly. Ratings of food quality can then be compared with ratings of service quality and atmosphere or physical environment. If food receives the highest average ratings, it may represent a current strength of the restaurant. If it receives lower ratings than the other experience areas, the results may identify an opportunity for improvement. However, the food-quality approach alone is too narrow to fully address AO2 because the objective examines the overall dining experience through several dimensions.
+
+Service quality is another important component of restaurant customer satisfaction. Ryu, Lee, and Kim’s framework treats service quality separately from food quality and the physical environment [@ryu2012]. This distinction is useful because a guest can enjoy the food while still having a less positive experience with service, or the opposite. Service quality may involve friendliness, attentiveness, responsiveness, professionalism, communication, and reliability.
+
+Service quality is particularly relevant to RKR because the restaurant operates within The Collins College of Hospitality Management and also functions as a learning environment. Guests are still customers of the restaurant and evaluate the service they receive as part of their dining experience. Measuring service quality separately can help RKR identify whether guests view service as one of the strongest parts of the experience or whether certain aspects may need attention. For AO2, service ratings will therefore be compared with food-quality and atmosphere ratings rather than being interpreted in isolation.
+
+Atmosphere and the physical environment represent another established area of restaurant research. Han and Ryu examined relationships among the physical environment, price perception, customer satisfaction, and restaurant loyalty [@han2009]. Heung and Gu also examined the influence of restaurant atmospherics on customer evaluations and behavioral responses [@heung2012]. Together, these studies support including the physical environment as a separate dimension of the dining experience.
+
+The physical environment may include elements such as cleanliness, décor, lighting, seating, layout, comfort, and the overall atmosphere created by the restaurant. For RKR, this dimension may also reflect the restaurant’s campus setting and the overall feeling guests experience during lunch or dinner service. These elements are different from the food and service themselves, but they can still contribute to how guests evaluate the visit.
+
+The physical-environment approach is useful for AO2 because it allows RKR to identify whether the atmosphere is evaluated as positively as the food and service. However, similar to the food-quality approach, it is not sufficient by itself to answer the full analytics objective. AO2 requires a broader comparison of several experience dimensions. For this reason, the multidimensional restaurant-quality framework provides a stronger overall foundation, while the food-quality and physical-environment approaches provide additional support for individual dimensions.
+
+Previous restaurant research also connects customer satisfaction with future behavioral intentions, including intention to return and willingness to recommend a restaurant [@arora2006]. These measures are relevant to the RKR project because positive dining experiences may contribute to repeat visits and positive recommendations. However, AO2 will treat intention to return and willingness to recommend as secondary descriptive indicators rather than as evidence of actual future behavior. A guest stating that they intend to return does not confirm that a repeat visit will actually occur.
+
+Perceived value also appears in several restaurant models, including the framework used by Ryu, Lee, and Kim [@ryu2012]. However, perceived value will not be treated as a primary dimension in the current AO2. The revised objective is intentionally focused on food quality, service quality, and atmosphere or physical environment. Keeping these three dimensions as the main areas of comparison makes the objective more focused and directly connected to the planned survey.
+
+Taken together, the existing research provides a strong conceptual foundation for AO2. The multidimensional restaurant-quality framework is the strongest overall fit because it directly includes the three experience dimensions that RKR plans to compare. The food-quality and physical-environment approaches provide additional support for understanding individual parts of the guest experience. These models will guide the design of the anonymous post-visit survey and the interpretation of the results.
+
+The survey will use five-point rating items to measure food quality, service quality, atmosphere and physical environment, overall satisfaction, intention to return, and willingness to recommend. Open-ended questions will also allow guests to identify the best part of their experience and areas that could be improved. The existing research therefore helps determine what should be measured, but it cannot determine which experience areas are actually strongest or weakest at RKR.
+
+This limitation is important because the previous studies were conducted in restaurant settings that differ from RKR. RKR is a student-operated restaurant located on a university campus and serves its own mix of guests. The existing models can guide the research design, but primary survey data from RKR guests are still necessary to understand the restaurant’s specific customer experience. For that reason, the literature provides the framework for AO2, while the RKR survey will provide the evidence needed to identify strengths and improvement opportunities.
 
 #### Adequateness of Gathered Information (a paragraph per AO)
 
+The gathered information is sufficient to identify the main dimensions that should be measured for AO2, including food quality, service quality, atmosphere or physical environment, overall satisfaction, and future behavioral intentions. The reviewed studies are generally consistent in showing that these dimensions are important parts of the restaurant experience, and several of the sources are directly based on restaurant settings [@ryu2012; @namkung2007; @han2009; @heung2012]. However, the existing research is not sufficient to determine which dimensions RKR guests currently evaluate most positively or which areas need the most improvement. The studies were conducted in different restaurant contexts and populations, so their findings cannot be assumed to apply directly to RKR. Primary survey data from RKR guests are therefore necessary to complete the objective. Possible limitations of the planned survey include convenience sampling, nonresponse bias, and the possibility that guests with a connection to Cal Poly Pomona or RKR may provide more favorable responses. The existing literature will therefore be used to guide what is measured, while the RKR survey will provide the restaurant-specific evidence needed to identify strengths and improvement opportunities.
+
 #### Need for Additional Analysis (a paragraph per AO)
 
+Additional analysis is needed because the existing research cannot determine which parts of the RKR dining experience are currently strongest or weakest for its own guests. To address this gap, anonymous post-visit survey responses will be analyzed using response counts, percentages, and average ratings for food quality, service quality, atmosphere or physical environment, and overall satisfaction. Open-ended comments will also be reviewed and grouped into recurring themes to provide additional context about what guests value and what they believe could be improved. Intention to return and willingness to recommend will be summarized as secondary descriptive indicators. If the number of responses is sufficient, simple exploratory correlations may also be used to describe how the experience dimensions are associated with overall satisfaction. These analyses will not be interpreted as causal evidence. The additional primary-data analysis will allow RKR to apply the existing research framework to its own guests and identify specific customer-experience priorities that cannot be determined from the literature alone.
+
 #### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+
+The current AO2 remains appropriate because it directly addresses RKR’s need to understand which parts of the guest experience are performing well and which areas may require improvement. The objective is measurable using anonymous post-visit survey responses and is closely aligned with PO2, which focuses on identifying what RKR guests value most and where improvements are needed in the overall dining experience.
+
+To accomplish AO2, the analysis will use descriptive statistics to compare guest ratings of food quality, service quality, atmosphere or physical environment, and overall satisfaction. Response counts, percentages, and average ratings will be used to identify the highest- and lowest-rated experience areas. Open-ended comments will also be reviewed and organized into recurring themes to provide context for the numerical results and identify specific strengths or improvement opportunities mentioned by guests.
+
+Intention to return and willingness to recommend will be included as secondary descriptive indicators. If the sample size is sufficient, simple exploratory correlations may also be used to examine whether higher ratings in food quality, service quality, or atmosphere are associated with higher overall satisfaction. These relationships will be interpreted as associations rather than causal effects.
+
+These analytical techniques are appropriate because they match the type of data expected from the survey and directly support the purpose of AO2. The descriptive analysis will allow RKR to compare major experience dimensions in a clear and actionable way, while the open-ended responses can help explain why guests rated certain areas more positively or negatively. The optional exploratory correlations can provide additional insight into which experience dimensions appear most closely associated with overall satisfaction. Together, these methods will help RKR identify customer-experience priorities and make evidence-based decisions about where improvements may have the greatest value.
 
 ### AO3.Facebook Content and Messaging Strategies and Reservation Performance (Luis Ahumada)
 
