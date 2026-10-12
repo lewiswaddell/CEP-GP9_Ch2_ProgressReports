@@ -374,11 +374,45 @@ The final goal is to give RKR a more data-driven Instagram strategy and recommen
 
 ### Current Product/Services
 
+The Restaurant at Kellogg Ranch (RKR) provides public lunch and dinner service within a student-operated hospitality training restaurant at Cal Poly Pomona. Its offering combines seasonal dining, student-delivered service, and views of the campus. The website also promotes the restaurant as a setting for business dinners, family celebrations, and large parties or events. [@therest].
+
+The published menus include starters, salads, sandwiches, entrées, desserts, and beverages, with dietary options identified. [@rkr_menu]. Campus partnerships supply ingredients and beverages, including produce from university farms, campus-produced honey, Horsehill wines, and Innovation Brew Works beer. These partnerships help distinguish RKR’s offering through its connection to Cal Poly Pomona and locally sourced food. [@rkr_sourcing].
+
+These characteristics directly support AO2, which compares guest ratings of food quality, service quality, and atmosphere or physical environment. Together, these dimensions represent the core experience RKR provides. The restaurant’s promotional descriptions establish what it offers and emphasizes, while the planned post-visit survey will assess how guests actually evaluate that experience. Seasonal dishes and campus sourcing also provide potential content subjects for the newsletter, Facebook, and Instagram work in AO1, AO3, and AO5.
+
 ### Current Pricing
+
+RKR’s published fall menus use individual item pricing. Lunch entrées range from $15 to $23, while lunch sandwiches range from $18 to $20. Individual dinner entrées range from $16 to $24, and a sirloin entrée intended for two guests is listed at $48. Desserts are priced at $12 each. These amounts describe listed items rather than complete meal totals. [@rkr_menu].
+
+| Menu category | Published price |
+|---|---:|
+| Lunch entrées | $15–$23 |
+| Lunch sandwiches | $18–$20 |
+| Individual dinner entrées | $16–$24 |
+| Sirloin entrée for two | $48 |
+| Desserts | $12 |
+| Wine by the glass | $6–$10 |
+| Beer | $6–$8 |
+
+Source: RKR’s published fall menus [@rkr_menu].
+
+Pricing provides practical information prospective guests can use when planning a visit. This relates to AO4 because finding the menu should give visitors access to relevant dining information, including prices. However, successful navigation does not establish that customers consider those prices affordable or worthwhile. Price perceptions are also outside AO2’s primary comparison of food, service, and atmosphere. The team should therefore describe current prices without claiming that the project will determine an optimal pricing strategy. Pricing rationale, discounts, and private-event rates require client confirmation.
 
 ### Current Marketing Channels
 
+RKR delivers its dining service directly through its campus restaurant in Building 79 at 3801 West Temple Avenue in Pomona. Its contact page provides location directions, telephone and email contact information, and complimentary parking in Lot L with a reservation. Posted hours are Monday through Friday, 11 a.m.–2 p.m., for lunch and Tuesday through Friday, 5–8 p.m., for dinner, beginning August 24. [@rkr_contact].
+
+The website provides an OpenTable reservation widget, while walk-ins are also welcome. [@therest]. The team’s existing report identifies additional customer outreach through The Collins Concierge newsletter, Facebook, and Instagram. These communication channels can introduce guests to RKR and direct them toward dining information or the reservation process.
+
+This channel structure explains the relationship among the project’s AOs. AO1 examines newsletter clicks and attributed reservations; AO3 examines Facebook engagement and its association with OpenTable activity; AO5 compares Instagram engagement across formats. AO4 examines whether visitors can find the menu, identify hours, and reach the reservation interface. These are distinct stages of the customer journey. Reaching the reservation interface does not confirm a booking, and reservation records alone do not capture walk-in visits.
+
 ### Current Integrated Marketing Communications
+
+RKR’s website emphasizes seasonal food, campus sourcing, hospitality education, welcoming service, and scenic views. It includes guest testimonials and directs visitors to [RKR’s Instagram account](https://www.instagram.com/rkr_cpp/) for team updates, seasonal menu changes, and special events. [@therest]. The sourcing page reinforces the campus connection, while the “Our Story” page presents the restaurant’s educational origins and lists awards and recognitions. [@rkr_sourcing; @rkr_story].
+
+The team’s report also documents an RKR promotional section in The Collins Concierge containing menu information, hours, and a reservation link. It identifies Facebook and Instagram as additional channels under investigation. Together, these activities provide several opportunities to communicate the restaurant’s offering and encourage a visit. However, their presence does not establish that messaging, schedules, or reservation links are coordinated across channels.
+
+AO1, AO3, and AO5 address different aspects of communication performance: newsletter design, Facebook content and messaging, and Instagram formats. AO4 complements this work by assessing access to the information and reservation interface that prospective guests need next. The shared implication is that communication should be evaluated through both audience response and subsequent actions where measurable. Higher engagement alone should not be presented as evidence of increased reservations. Client information about campaign planning, content approval, and tracking is needed to assess the integration of RKR’s communications.
 
 ## Description of the Company’s Current Digital Marketing Practices
 
