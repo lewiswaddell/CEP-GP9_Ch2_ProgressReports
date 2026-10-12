@@ -354,13 +354,53 @@ The final goal is to give RKR a more data-driven Instagram strategy and recommen
 
 ## Client (Company) Background
 
+The Restaurant at Kellogg Ranch (RKR) is located at California State Polytechnic University, Pomona, and is part of The Collins College of Hospitality Management. Established in 1990, RKR has traditionally operated as a student-managed restaurant and learning laboratory where hospitality students gain hands-on experience in restaurant operations, food preparation, customer service, and management [@collins_rkr].
+
+RKR is transitioning toward a dual operating model that combines its educational purpose with stand-alone restaurant operations. According to the initial project proposal prepared by Dr. Linchi Kwok, this emerging model may allow the restaurant to operate with paid staff on three weekdays while continuing to serve as a classroom laboratory on designated instructional days[@kwok2026].
+
+This transition represents an important business challenge because stand-alone restaurant services must generate sufficient customer demand and revenue to support financially sustainable operations. Therefore, attracting guests, increasing reservation activity, and encouraging repeat visits are important priorities while maintaining RKR's educational identity [@kwok2026].
+
 ### Company Mission/Vision
+
+RKR's educational mission is closely connected to Cal Poly Pomona's emphasis on experiential learning. The restaurant provides students with opportunities to apply classroom knowledge in a professional dining environment, develop practical hospitality skills, and gain experience serving real customers. Through this learning model, students develop skills in teamwork, leadership, service, and restaurant management [@collins_rkr].
+
+Although a separate official mission and vision statement for RKR has not been identified in the available materials, its current strategic direction is outlined in the initial project proposal. RKR seeks to preserve its educational purpose while developing sustainable restaurant operations that can attract customers and generate revenue independently of instructional support [@kwok2026].
+
+From this perspective, RKR's long-term direction involves balancing hospitality education with successful restaurant operations. This means continuing to provide meaningful learning opportunities for students while maintaining a dining experience that meets customer expectations and encourages guests to return.
 
 ### Core Competencies
 
+One of RKR's main competencies is its ability to combine hospitality education with actual restaurant operations. As part of The Collins College of Hospitality Management, students gain practical experience in different areas of the restaurant, including food preparation, guest service, leadership, and management. This educational connection gives RKR an identity that differs from traditional restaurants[@collins_rkr].
+
+Another important strength is the restaurant's culinary offering and physical environment. RKR features seasonal menus with farm-to-table-inspired dishes, including ingredients sourced from Cal Poly Pomona's agricultural resources. Its location also provides scenic campus views, creating an attractive atmosphere for guests [@rkr_sourcing].
+
+According to the initial project proposal, RKR also benefits from campus and alumni connections, established social media accounts, and access to reservation information. These resources provide opportunities to reach potential customers, better understand guest behavior, and improve marketing effectiveness.
+
+Additionally, the arrival of a new general manager and executive chef provides an opportunity to strengthen the restaurant's operations, culinary offerings, and market positioning. However, these strengths alone do not guarantee sufficient customer demand. RKR still needs to better understand its target audiences, customer motivations, and the marketing channels that are most effective in attracting reservations [@kwok2026].
+
 ### Value Propositions
 
+RKR offers a distinctive value proposition by combining a restaurant dining experience with the educational identity of Cal Poly Pomona. Guests can enjoy seasonal meals, fresh ingredients, and an attractive campus setting while supporting the professional development of future hospitality leaders [@rkr_menu].
+
+Its culinary offerings, restaurant atmosphere, and connection to the university are important elements that may help differentiate RKR from traditional restaurants. These characteristics may appeal to campus audiences, alumni, local residents, and customers looking for a unique dining experience.
+
+However, the initial project proposal identifies an important area that requires further investigation: whether customers are more attracted by RKR's culinary experience, its educational mission, or a combination of both. Understanding which aspects customers value most can help the restaurant communicate its strengths more effectively and develop marketing messages that appeal to different audiences[@kwok2026].
+
+Customer perceptions are especially important because the restaurant's educational identity alone may not be enough to encourage repeat visits. Food quality, service quality, and the physical environment can also influence customer satisfaction and future behavioral intentions. Understanding these elements can help RKR improve the dining experience and strengthen its overall value proposition [@ryu2012].
+
 ### Business Objectives
+
+RKR's main business objective is to develop sustainable customer demand and generate sufficient revenue to support its stand-alone restaurant operations while preserving its educational mission. As the restaurant transitions toward a dual operating model, attracting guests, increasing reservations, and encouraging repeat visits are important priorities [@kwok2026].
+
+The initial project proposal identifies several objectives that support this direction, including understanding RKR's market position, identifying priority customer segments, analyzing reservation patterns, evaluating the digital customer journey, and improving marketing effectiveness [@kwok2026].
+
+Another important priority is understanding and improving the customer experience. Evaluating guest perceptions of food quality, service quality, atmosphere, and overall satisfaction can help RKR identify strengths and opportunities for improvement. Feedback regarding intention to return and willingness to recommend can also provide useful information about customers' future behavioral intentions [@ryu2012].
+
+Digital marketing is another key focus. RKR needs to better understand how its website, email communications, and social media content contribute to customer engagement and reservation-related activity. Analyzing this information can help identify more effective communication strategies and opportunities to improve the customer journey from initial awareness to reservation.
+
+These business priorities provide the foundation for the team's Capstone Experience Project, which examines newsletter design and reservation activity, customer satisfaction and dining experience, Facebook content performance, website usability, and Instagram engagement.
+
+Together, these areas of investigation support RKR's broader goal of developing a measurable and repeatable demand-generation system. By using customer feedback, reservation information, and digital marketing performance data, RKR can make more informed decisions about its marketing activities and guest experience while continuing to support hospitality education.
 
 ## Description of the Client’s Current Marketing Program
 
