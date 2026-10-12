@@ -40,7 +40,7 @@ csl: american-marketing-association.csl
 
 ## Evidence Search and Approach Challenge
 
-- [Google Drive Containing Individual Reports](https://drive.google.com/drive/folders/1du_W7r7T4k9v3Y39YWYY-aHQAu7HKRU8?usp=sharing)
+-   [Google Drive Containing Individual Reports](https://drive.google.com/drive/folders/1du_W7r7T4k9v3Y39YWYY-aHQAu7HKRU8?usp=sharing)
 
 # Progress Report 2
 
@@ -351,7 +351,6 @@ The final goal is to give RKR a more data-driven Instagram strategy and recommen
 
 # Progress Report 3 - CHAPTER 2: BACKGROUND AND ANALYTICS OBJECTIVES {#sec-ch2-background-and-analytics-objectives}
 
-
 ## Client (Company) Background
 
 The Restaurant at Kellogg Ranch (RKR) is located at California State Polytechnic University, Pomona, and is part of The Collins College of Hospitality Management. Established in 1990, RKR has traditionally operated as a student-managed restaurant and learning laboratory where hospitality students gain hands-on experience in restaurant operations, food preparation, customer service, and management [@collins_rkr].
@@ -422,17 +421,17 @@ These characteristics directly support AO2, which compares guest ratings of food
 
 ### Current Pricing
 
-RKR’s published fall menus use individual item pricing. Lunch entrées range from $15 to $23, while lunch sandwiches range from $18 to $20. Individual dinner entrées range from $16 to $24, and a sirloin entrée intended for two guests is listed at $48. Desserts are priced at $12 each. These amounts describe listed items rather than complete meal totals. [@rkr_menu].
+RKR’s published fall menus use individual item pricing. Lunch entrées range from \$15 to \$23, while lunch sandwiches range from \$18 to \$20. Individual dinner entrées range from \$16 to \$24, and a sirloin entrée intended for two guests is listed at \$48. Desserts are priced at \$12 each. These amounts describe listed items rather than complete meal totals. [@rkr_menu].
 
-| Menu category | Published price |
-|---|---:|
-| Lunch entrées | $15–$23 |
-| Lunch sandwiches | $18–$20 |
-| Individual dinner entrées | $16–$24 |
-| Sirloin entrée for two | $48 |
-| Desserts | $12 |
-| Wine by the glass | $6–$10 |
-| Beer | $6–$8 |
+| Menu category             | Published price |
+|---------------------------|----------------:|
+| Lunch entrées             |       \$15–\$23 |
+| Lunch sandwiches          |       \$18–\$20 |
+| Individual dinner entrées |       \$16–\$24 |
+| Sirloin entrée for two    |            \$48 |
+| Desserts                  |            \$12 |
+| Wine by the glass         |        \$6–\$10 |
+| Beer                      |         \$6–\$8 |
 
 Source: RKR’s published fall menus [@rkr_menu].
 
@@ -494,19 +493,57 @@ AO1, AO3, and AO5 address different aspects of communication performance: newsle
 
 ### Analytics Infrastructure
 
-## Competitive Analysis
+## 2.4 Competitive Analysis
+
+RKR competes with restaurants in Pomona and the surrounding area. Customers may compare food, prices, atmosphere, location, and available dining times when choosing a restaurant. Our proposed comparisons are Pomona Valley Mining Company, Coco Palm, The Derby, and VITA Italian Bar & Grill. We still need to confirm which restaurants RKR considers its closest competitors.
 
 ### Industry Size
 
+The figures below describe the broader U.S. restaurant and foodservice industry. They provide background for the project but do not measure the size of RKR’s local market.
+
 #### Number of Companies
+
+We have not yet confirmed the number of restaurant companies in RKR’s local market. Before finding this number, our team needs to define the area and types of restaurants included in the comparison. A count of restaurant locations would also be different from a count of companies, since one company may operate several locations.
 
 #### Number of Employees
 
+The National Restaurant Association’s initial 2026 forecast projected total U.S. restaurant and foodservice employment of 15.8 million people.^5^ This shows the size of the national industry, but we have not yet obtained an employment estimate for RKR’s local market.
+
 #### Annual Revenue and Key Financial Information
+
+The National Restaurant Association’s initial forecast projected U.S. restaurant and foodservice sales of \$1.55 trillion in 2026.^5^ In July, the association updated its expected annual sales growth to 4.3%, or 0.8% after adjusting for inflation. The update also reported uneven customer traffic and high operating costs.^6^
+
+These conditions suggest that restaurants need to give customers a clear reason to visit. For RKR, we think its student-run experience, seasonal menus, and campus-grown ingredients could help communicate its value.^7^ We have not obtained comparable annual revenue figures for RKR and the selected competitors.
 
 #### Existence of Dominant Players and Competitors
 
+Our analysis focuses on restaurants that could appeal to customers looking for a similar dining occasion. We have not established that any of these restaurants dominates the local market.
+
+Pomona Valley Mining Company and Coco Palm were selected as nearby comparisons because both promote scenic dining.^1,2^ The Derby in Arcadia provides a regional comparison for upscale dining and special occasions.^3^ VITA Italian Bar & Grill offers another Pomona option and emphasizes Italian food, local ingredients, and its dining atmosphere.^4^
+
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| Restaurant                                | Main offering                                                                               | Digital marketing features                                                                                             | What this means for RKR                                                                                        |
++:==========================================+:============================================================================================+:=======================================================================================================================+:===============================================================================================================+
+| **RKR — Pomona**                          | Student-run restaurant with seasonal food, campus-grown ingredients, and hillside views.^7^ | Website includes menus, visitor information, OpenTable reservations, and an Instagram link.^7^                         | Student involvement and campus ingredients give RKR different topics to feature in its content.                |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **Pomona Valley Mining Company — Pomona** | Hilltop dining, Sunday brunch, and private events.^1^                                       | Website promotes holiday meals and events, provides menu information, and links to OpenTable reservations.^1^          | Competes for scenic dining and celebrations. Its website connects promotions to a clear reservation option.    |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **Coco Palm — Pomona**                    | Cuban dining with city views and space for special occasions.^2^                            | Website provides menus, reservations, online ordering, and event information.^2^                                       | Offers another option for local customers looking for a meal with a view or a celebration venue.               |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **The Derby — Arcadia**                   | Upscale steakhouse with a long history and a focus on its dining atmosphere.^3^             | Website shares the restaurant’s history, food and interior photos, reservation links, and group-dining information.^3^ | Shows how a restaurant can use its story and atmosphere to give customers a reason to visit.                   |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **VITA Italian Bar & Grill — Pomona**     | Italian dining with local ingredients, an outdoor terrace, and Sunday brunch.^4^            | Website features menus, reservation links, food photos, brunch promotions, and cooking classes.^4^                     | Provides another nearby dining option. Its food and event promotions give us ideas for content RKR could test. |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+
+*The table compares visible website features. It does not show which restaurant has better marketing results.*
+
+This comparison supports our analytics objectives by identifying content and customer actions to evaluate. For AO5, we could compare Instagram posts about food, students, and the dining atmosphere to see which receive more engagement. The newsletter and website objectives could examine whether menu information and reservation links encourage customers to take the next step. Reservation-link clicks should be measured separately from completed reservations.
+
 #### Market Share of Each Major Player
+
+We have not found reliable market-share figures for RKR or the selected competitors. Calculating revenue-based market share would require each restaurant’s sales and total sales for a clearly defined market during the same period.
+
+Because these figures are not available to our team, we cannot estimate each restaurant’s market share. Social media followers and online reviews may help compare online visibility, but they do not measure market share.
 
 ### Industry Outlook
 
@@ -587,4 +624,17 @@ AO1, AO3, and AO5 address different aspects of communication performance: newsle
 ## References {.unnumbered}
 
 ::: {#refs}
+1.  Pomona Valley Mining Co. Pomona Valley Mining Co. Accessed October 11, 2026. <https://www.pomonavalleyminingco.com/>
+
+2.  Coco Palm Restaurant. Coco Palm Restaurant. Accessed October 11, 2026. <https://www.cocopalmrestaurant.com/>
+
+3.  The Derby. The Derby. Accessed October 11, 2026. <https://www.thederbyarcadia.com/>
+
+4.  VITA Italian Bar & Grill. VITA Italian Bar & Grill. Accessed October 11, 2026. <https://www.vitalosangeles.com/>
+
+5.  National Restaurant Association. State of the restaurant industry 2026. Published February 11, 2026. Accessed October 11, 2026. <https://restaurant.org/research-and-media/research/research-reports/state-of-the-industry/>
+
+6.  National Restaurant Association. Restaurants remain resilient despite challenging business conditions. Published July 22, 2026. Accessed October 11, 2026. <https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurants-remain-resilient-despite-challenging-business-conditions/>
+
+7.  California State Polytechnic University, Pomona. The Restaurant at Kellogg Ranch. Accessed October 11, 2026. <https://www.cpp.edu/rkr/>
 :::
