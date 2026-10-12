@@ -349,6 +349,167 @@ To complete AO5, I plan to compare RKR's Instagram formats using engagement rate
 
 The final goal is to give RKR a more data-driven Instagram strategy and recommend which formats they should prioritize moving forward. The results will focus on Instagram engagement and will not assume that higher engagement automatically means more restaurant reservations or sales.
 
+# Progress Report 3 - CHAPTER 2: BACKGROUND AND ANALYTICS OBJECTIVES {#sec-ch2-background-and-analytics-objectives}
+
+
+## Client (Company) Background
+
+### Company Mission/Vision
+
+### Core Competencies
+
+### Value Propositions
+
+### Business Objectives
+
+## Description of the Client’s Current Marketing Program
+
+### Marketing Team and Expertise
+
+### Current Target Market
+
+### Current Positioning and Perceptual Map
+
+*Current Perceptual Map*
+
+### Current Product/Services
+
+### Current Pricing
+
+### Current Marketing Channels
+
+### Current Integrated Marketing Communications
+
+## Description of the Company’s Current Digital Marketing Practices
+
+### Brand Persona
+
+### Digital Marketing Channels/Medium
+
+#### Website and Landing Page
+
+#### Keyword Research and SEO
+
+#### Email Marketing
+
+#### Social Media Posting
+
+#### Paid Search Advertising
+
+#### Social Media Advertising
+
+#### Display advertising
+
+### Other digital marketing channels & tactics
+
+#### Conversion Rate Optimization (CRO)
+
+#### Mobile Application
+
+#### Affiliate Marketing
+
+#### Influencer Campaigns
+
+### Allocation of Resources to Customer-Influence Efforts
+
+#### Demand Generation
+
+#### Demand Harvesting
+
+#### Loyalty Building
+
+### Analytics Infrastructure
+
+## Competitive Analysis
+
+### Industry Size
+
+#### Number of Companies
+
+#### Number of Employees
+
+#### Annual Revenue and Key Financial Information
+
+#### Existence of Dominant Players and Competitors
+
+#### Market Share of Each Major Player
+
+### Industry Outlook
+
+#### Industry Life Cycle
+
+#### Future Sales/Profit Growth Outlook
+
+### Key Competitors and Their Digital Marketing Strategies
+
+#### Target Market
+
+#### Positioning
+
+#### Website and Landing Page
+
+#### Keyword research and SEO
+
+#### Email Marketing Strategy
+
+#### Social Media Posting
+
+#### Paid Search Advertising
+
+#### Social Media Advertising
+
+#### Display Advertising
+
+#### Conversion Rate Optimization (CRO)
+
+#### Mobile Application
+
+#### Affiliate Marketing
+
+#### Influencer Campaigns
+
+#### Summary Table of Comparison
+
+## Customer Analysis
+
+### Segments and Their Brief Justification
+
+*Develop a profile of customers for each segment in terms of demographics, psychographics, benefits sought, behavioral patterns, etc.*
+
+#### Segment Name A
+
+#### Segment Name B
+
+#### Segment Name C
+
+#### Segment Name D
+
+#### **Summary Table of Segments**
+
+*In the table, each column should represent a segment, and each row should represent a customer characteristic (e.g., demographics, psychographics, benefits sought, behavioral patterns). The cell descriptions should indicate the profile of customers in each segment for each characteristic.*
+
+### Segment Analysis
+
+*Evaluate the potential for each segment on such criteria as identifiability, actionability, substantiality, and accessibility.*
+
+#### **Summary Table of Segment Evaluation**
+
+*Based on the segment evaluation, identify the most attractive segment(s) to target and justify your choice.*
+
+*In the table, each column should represent a segment, and each row should represent an evaluation criterion, plus overall attractiveness. The cell values should indicate how well each segment meets each criterion, using a consistent rating system (e.g., high, medium, low or a numerical scale).*
+
+## SWOT Analysis
+
+### Strengths
+
+### Weaknesses
+
+### Opportunities
+
+### Threats
+
+### **Summary: SWOT quadrants**
+
 ## References {.unnumbered}
 
 ::: {#refs}
