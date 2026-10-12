@@ -40,7 +40,7 @@ csl: american-marketing-association.csl
 
 ## Evidence Search and Approach Challenge
 
--   [Google Drive Containing Individual Reports](https://drive.google.com/drive/folders/1du_W7r7T4k9v3Y39YWYY-aHQAu7HKRU8?usp=sharing)
+- [Google Drive Containing Individual Reports](https://drive.google.com/drive/folders/1du_W7r7T4k9v3Y39YWYY-aHQAu7HKRU8?usp=sharing)
 
 # Progress Report 2
 
@@ -405,11 +405,27 @@ Together, these areas of investigation support RKR's broader goal of developing 
 
 ### Marketing Team and Expertise
 
+The RKR’s current marketing team is made of several people and platforms rather than being run through one main restaurant marketing team. Current marketing communication includes RKR’s instagram account, The Collins Concierge Newsletter, social channels that are ran by the Collins College of Hospitality marketing team, the RKR website, and third-party platforms such as Google, Yelp, and OpenTable.
+
+Our CEP proposal also identifies that the executive chef is important to RKR’s changing market position, guest experience, and content strategy [@kwok2026]. RKR’s Head Chef has access to his own personal professional Instagram and LinkedIn accounts, which can provide our group another path to highlight the restaurant. Student involvement, and behind the scenes content. The one issue is that the Head Chef does not provide access to his accounts, so they are not identified as official RKR marketing channels. RKR currently has different methods of reaching customers, but as stated before, communication is handled across different people and platforms. So having better coordination between these channels could help RKR maintain a consistent messaging strategy as the restaurant continues to grow.  
+
 ### Current Target Market
+
+The RKR’s current position and location present a strong opportunity to reach different groups of customers. The connection to the Collins College of Hospitality Management and its Location on Cal Poly Pomona’s campus can present different content strategies that can be used across the different channels that are available. Some groups that could be targeted include students, CPP staff, Pomona corporate companies that could visit the restaurant during official business meetings, and the Pomona community. 
+
+The restaurant can also attract customers who want something that is different from the typical dining experience. Campus-grown ingredients, student managed service, and connections to Cal Poly Pomona’s educational mission gives customers more reasons to visit beyond the food itself. RKR’s seasonal menu and location should also be used to bring in customers who are interested in supporting the university while also going through a fine dining experience. So, although the RKR has the potential to attract a variety of customers, its primary audience has not yet been clearly established by our group. A closer look at reservation activity and digital engagement may provide us with insight into who is interacting with the restaurant and help guide future marketing decisions.
 
 ### Current Positioning and Perceptual Map
 
-*Current Perceptual Map*
+The RKR provides a dining experience that combines fine dining services with the educational mission of Cal Poly Pomona’s Collins College of Hospitality Management. Because RKR is a student operated restaurant, RKR allows students to gain hands-on experience in all aspects of fine dining restaurant operation including making positive guest experiences and services a priority. Its seasonal menu, use of campus grown ingredients, and connection to CPP’s agricultural programs also play a role in what makes the restaurant different from the other fine dining experiences in the surrounding Pomona area. 
+
+RKR’s connection to CPP is a vital part to its identity, but its fine dining experience is just as important when considering the restaurant's current position in the local market. The RKR offers its guests the opportunity to enjoy a high-quality , carefully prepared meal; while also supporting the professional experience of future hospitality professionals. Together, these elements give the RKR a very unique identity that combines the quality that comes with fine dining and an experience that is tightly connected to the university’s mission. 
+
+In order to examine how the RKR compares with local restaurants, our team developed a perceptual map that includes local surrounding restaurants that fall under teh “fine-dining” category. These restaurants include Pomona Valley Mining Company, Coco Palm, The Derby, and VITA Italian Bar & Grill. The map compares the restaurants based on two dimensions. One being the type of dining experience and the second being the dining atmosphere. The dining experience ranges from traditional to unique, while the dining atmosphere ranges from casual to special occasion or upscale. 
+
+![](images/Cal Poly Pomona Perceptual Map.png)
+
+The reason for the RKR’s current placement on the map is because its student-operated setting and connection to CPP helps separate it from its competitors that offer more traditional upscale dining experiences. But, the map also reflects the team's assessment of each restaurant based on its characteristics rather than customer feedback. Performing more research could help our group determine how guests actually perceive RKR and whether its current positioning on our map aligns with those perceptions of the public. 
 
 ### Current Product/Services
 
