@@ -601,29 +601,55 @@ Because these figures are not available to our team, we cannot estimate each res
 
 ### Segments and Their Brief Justification
 
-*Develop a profile of customers for each segment in terms of demographics, psychographics, benefits sought, behavioral patterns, etc.*
+#### Segment A: Cal Poly Pomona Faculty and Staff
 
-#### Segment Name A
+This segment includes faculty, staff, and administrators who work on campus. They are likely working adults with steady schedules and limited time during the day. RKR's weekday lunch hours, from 11 a.m. to 2 p.m., fit their routine [@rkr_contact]. These guests may value convenience, a quality meal close to work, and a setting suited for department lunches or meetings with colleagues. Many also have a personal connection to the university and may want to support its students. We expect this group to visit most often at lunch and to return if the experience is consistent. The Collins Concierge already reaches part of this audience, which makes it the most direct segment to test through AO1.
 
-#### Segment Name B
+#### Segment B: Cal Poly Pomona Students
 
-#### Segment Name C
+This segment includes undergraduate and graduate students, including hospitality students and their peers. Most are younger diners who are active on social media. They may be more price-conscious than other segments, since lunch entrées range from \$15 to \$23 [@rkr_menu]. On the other hand, RKR accepts Bronco Bucks, which may make a visit easier to justify. Students may look for a social outing, a special meal, or a place to bring visiting family. We expect visits to be occasional and tied to events such as birthdays, family visits, or graduation. Instagram is likely the strongest way to reach this group, which connects to AO5.
 
-#### Segment Name D
+#### Segment C: Local Professionals and Business Groups
+
+This segment includes employees of Pomona-area companies and organizations who need a place for business meals. The RKR website already promotes the restaurant for business dinners and large parties [@therest]. These guests may value a professional atmosphere, reliable service, and easy reservations. RKR's farm-to-table menu and campus setting could also give business hosts a unique place to bring clients. We expect this group to book in advance and to dine in larger parties. However, RKR does not currently have a confirmed channel that targets this group. The executive chef's LinkedIn could help, but it is not an official RKR channel.
+
+#### Segment D: Alumni and the Local Community
+
+This segment includes Cal Poly Pomona alumni and residents of Pomona and nearby cities. Alumni may feel loyalty to the university, while local residents may be looking for something different from a typical night out. Both groups may value the scenic views, seasonal menu, and campus-grown ingredients [@rkr_sourcing]. We expect this segment to visit for celebrations such as birthdays, anniversaries, and family gatherings. Notably, this segment compares RKR most directly with Pomona Valley Mining Company and Coco Palm, which also promote scenic dining. RKR does not offer weekend service, which may limit visits from guests who celebrate on Saturdays or Sundays [@rkr_contact].
 
 #### **Summary Table of Segments**
 
-*In the table, each column should represent a segment, and each row should represent a customer characteristic (e.g., demographics, psychographics, benefits sought, behavioral patterns). The cell descriptions should indicate the profile of customers in each segment for each characteristic.*
+| Characteristic | Segment A: Faculty and Staff | Segment B: Students | Segment C: Local Professionals | Segment D: Alumni and Local Community |
+|---|---|---|---|---|
+| **Demographics** | Working adults employed on campus | Undergraduate and graduate students | Employees of Pomona-area companies | Alumni and residents of Pomona and nearby cities |
+| **Psychographics** | Busy, connected to the university, supportive of students | Social, active online, budget-aware | Professional, focused on impressions and reliability | Loyal to CPP or looking for a unique local experience |
+| **Benefits sought** | Convenience, quality lunch, meeting space | Social outing, special occasion meal, value | Professional setting, dependable service, easy booking | Scenic views, seasonal food, a memorable celebration |
+| **Behavioral patterns** | Frequent weekday lunch visits | Occasional, event-driven visits | Advance bookings for larger parties | Special-occasion visits, often on evenings |
+| **Likely channels** | The Collins Concierge, campus email | Instagram, Facebook | Website, Google, LinkedIn | Instagram, Facebook, Google, Yelp, alumni outreach |
 
 ### Segment Analysis
 
-*Evaluate the potential for each segment on such criteria as identifiability, actionability, substantiality, and accessibility.*
+Each segment was evaluated on four criteria. Identifiability is whether the group can be clearly defined and measured. Actionability is whether RKR can serve the group with its current menu, hours, and resources. Substantiality is whether the group is large enough or spends enough to support demand. Accessibility is whether RKR can reach the group through its existing channels.
+
+Faculty and staff rate highest overall. They are easy to identify, they are on campus during lunch hours, and the Concierge newsletter already reaches part of this group. Their total size is still unknown, so substantiality is rated medium until reservation data can confirm it.
+
+Students are easy to identify and reach through Instagram. On the other hand, menu prices may limit how often they visit, and their spending per visit is likely lower than other segments. As such, students rate lower on actionability and substantiality.
+
+Local professionals fit the business dining the website already promotes. However, RKR has no official channel aimed at this group, and its size in the Pomona area has not been measured. This makes accessibility the weakest point for this segment.
+
+Alumni and the local community are a large potential audience with clear reasons to visit. RKR can reach them through social media and review sites, but competition for scenic and special-occasion dining is strong. The lack of weekend service also limits how well RKR can serve them.
 
 #### **Summary Table of Segment Evaluation**
 
-*Based on the segment evaluation, identify the most attractive segment(s) to target and justify your choice.*
+| Criterion | Segment A: Faculty and Staff | Segment B: Students | Segment C: Local Professionals | Segment D: Alumni and Local Community |
+|---|---|---|---|---|
+| **Identifiability** | High | High | Medium | Medium |
+| **Actionability** | High | Medium | Medium | Medium |
+| **Substantiality** | Medium | Medium | Medium | High |
+| **Accessibility** | High | High | Low | Medium |
+| **Overall attractiveness** | High | Medium | Low to Medium | Medium to High |
 
-*In the table, each column should represent a segment, and each row should represent an evaluation criterion, plus overall attractiveness. The cell values should indicate how well each segment meets each criterion, using a consistent rating system (e.g., high, medium, low or a numerical scale).*
+Based on this evaluation, faculty and staff are the most attractive primary target. This segment fits RKR's weekday hours, is reachable through channels RKR already uses, and can be measured directly through AO1. Alumni and the local community are recommended as a secondary target because of their size and their interest in celebration dining. Reaching them will depend on stronger social media content, which AO3 and AO5 will help evaluate. These choices are based on our team's assessment and should be confirmed with OpenTable reservation data and AO2 survey responses.
 
 ## SWOT Analysis
 
